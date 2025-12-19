@@ -1,5 +1,5 @@
 {
-  "name": "emlak360-sanal-tur-yöneticisi",
+  "name": "emlak360-sanal-tur-yoneticisi",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,15 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react-dom": "^18.2.0",
+    "idb": "^7.1.1",
     "react": "^18.2.0",
-    "react-dropzone": "^14.2.3",
-    "idb": "^7.1.1"
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3"
   },
   "devDependencies": {
-    "@types/node": "^22.14.0",
-    "@vitejs/plugin-react": "^5.0.0",
-    "typescript": "~5.8.2",
-    "vite": "^6.2.0"
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^4.3.9"
   }
 }
