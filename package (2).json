@@ -1,8 +1,0 @@
-{
-  "name": "emlak360-sanal-tur-yoneticisi",
-  "private": true,
-  "version": "0.0.0",
-  "scripts": {
-    "build": "echo 'Build adımı yok, sadece statik dosyalar kullanılıyor.'"
-  }
-}
