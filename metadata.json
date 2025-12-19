@@ -1,0 +1,6 @@
+
+{
+  "name": "Emlak360 Sanal Tur Yöneticisi",
+  "description": "Bu uygulama, emlakçılar için 360° sanal turlar oluşturmak, yönetmek ve depolamak için geliştirilmiştir. Fotoğrafları verimli bir şekilde depolamak ve localStorage kota hatalarını önlemek için IndexedDB kullanır.",
+  "requestFramePermissions": []
+}
