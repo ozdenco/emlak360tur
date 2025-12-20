@@ -1,4 +1,7 @@
 import React from 'react';
+// FIX: Removed .ts extension from import to use standard module resolution.
+// FIX: Added .ts extension to import to fix module resolution error.
+// FIX: Removed .ts extension from import for proper module resolution.
 import { Tour } from '../types';
 import StatCard from './StatCard';
 import TourCard from './TourCard';
