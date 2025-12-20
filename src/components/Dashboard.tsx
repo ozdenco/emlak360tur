@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Tour } from '../types';
 import StatCard from './StatCard';
