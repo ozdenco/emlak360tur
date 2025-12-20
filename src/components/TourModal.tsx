@@ -1,4 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
+// FIX: Removed .ts extension from import to use standard module resolution.
+// FIX: Added .ts extension to imports to fix module resolution errors.
+// FIX: Removed .ts extension from imports for proper module resolution.
 import { TourWithPhotos, Photo, Property } from '../types';
 import { db } from '../services/db';
 import ImagePreview from './ImagePreview';
