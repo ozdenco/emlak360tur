@@ -1,4 +1,3 @@
-
 import { Tour, StoredPhotoMeta, Photo, TourWithPhotos } from '../types';
 import { openDB, IDBPDatabase, DBSchema } from 'idb';
 
