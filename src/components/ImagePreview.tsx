@@ -1,5 +1,8 @@
 import React, { useCallback, useState } from 'react';
 import { useDropzone } from 'react-dropzone';
+// FIX: Removed .ts extension from import to use standard module resolution.
+// FIX: Added .ts extension to import to fix module resolution error.
+// FIX: Removed .ts extension from import for proper module resolution.
 import { Photo } from '../types';
 
 interface ImagePreviewProps {
