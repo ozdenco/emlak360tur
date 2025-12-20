@@ -1,4 +1,3 @@
-
 import React, { useState, useMemo, useEffect, useRef } from 'react';
 import { TourWithPhotos } from '../types';
 import { db } from '../services/db';
